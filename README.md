@@ -11,7 +11,7 @@ Pandas and Numpy were imported and used to analyze the data and find out the det
 
 ### Files used
 
-Udacity has provided the data for the first six months of 2017 for all three cities as csv files. All three of the data files contain the same core six (6) columns:
+Udacity has provided the data for the first six months of 2017 for all three cities as csv files. All three of the data files contain the same core six columns:
 
 * Start Time (e.g., 2017-01-01 00:07:57)
 * End Time (e.g., 2017-01-01 00:20:53)
