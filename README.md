@@ -26,5 +26,7 @@ There are two extra columns the Chicago and New York City files which are:
 * Birth Year
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Refrences:
+* https://youtu.be/sxTmJE40ho
+* https://github.com/salimt/version-control
 
